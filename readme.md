@@ -1,0 +1,2 @@
+# goctl
+homebrew repo
